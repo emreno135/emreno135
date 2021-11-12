@@ -1,7 +1,7 @@
 Hi there, I'm Emre <br>
-Currently, I am a Frontend Developer&Video Editor. I love coding, bodybuilding and traveling.
-Glad to see you here! 😄
-📍 Currently base at: Izmir
+Currently, I am a Frontend Developer&Video Editor. I love coding, bodybuilding and traveling. <br>
+Glad to see you here! 😄 <br>
+📍 Currently base at: Izmir <br>
 HTML,CSS,C#,JavaScript,Video-Edit
 
 <!---
