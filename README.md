@@ -1,4 +1,4 @@
-Hi there, I'm Emre
+Hi there, I'm Emre <br>
 Currently, I am a Frontend Developer&Video Editor. I love coding, bodybuilding and traveling.
 Glad to see you here! 😄
 📍 Currently base at: Izmir
